@@ -94,6 +94,12 @@ Graduação em andamento.
 ### Ferramentas de Produtividade
 - Microsoft Office Excel.
 
+Confira meus certificados de capacitação em tecnologia, programação,
+banco de dados, inteligência artificial e computação em nuvem.
+
+[📜 Ver todos os certificados](./certificados/README.md)
+
+
 ---
 
 ## 💼 Experiência Profissional
